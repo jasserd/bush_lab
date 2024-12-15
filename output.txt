@@ -1,0 +1,16 @@
+/
+/dev
+/srv
+/boot
+/usr
+/var
+/mnt
+/media
+/bin.usr-is-merged
+/sbin.usr-is-merged
+/opt
+/lib.usr-is-merged
+/etc
+/snap
+/home
+/run
